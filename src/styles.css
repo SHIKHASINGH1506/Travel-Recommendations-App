@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: auto;
+}
+body {
+  background-color: #1e222c;
+  color: white;
+}
+.genre-container {
+  display: flex;
+}
+.genre-items {
+  cursor: pointer;
+  margin: 1rem;
+  padding: 1rem 1.5rem;
+  align-items: center;
+  display: flex;
+  border-radius: 2rem;
+}
+.placeName {
+  font-size: larger;
+  color: #ed3a4d;
+  padding-right: 1rem;
+}
+.bestTime {
+  padding-right: 1rem;
+}
