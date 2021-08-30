@@ -9,7 +9,7 @@ module.exports = {
       bestTimeToVisit: "April to June"
     },
     {
-      name: "Agra, Uttar Prades",
+      name: "Agra, Uttar Pradesh",
       bestTimeToVisit: "October to March"
     }
   ],
