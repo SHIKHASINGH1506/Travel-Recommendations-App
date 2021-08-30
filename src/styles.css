@@ -9,6 +9,7 @@ body {
 }
 .genre-container {
   display: flex;
+  justify-content: center;
 }
 .genre-items {
   cursor: pointer;
